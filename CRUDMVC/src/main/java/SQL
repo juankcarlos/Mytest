@@ -1,0 +1,10 @@
+create table crudjava;
+
+create table usuario(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+nombre varchar(40)NOT NULL,
+apellidos varchar(40)NOT NULL,
+edad int NOT NULL,
+email nombre varchar(40) NOT NULL,
+password nombre varchar(40)NOT NULL
+);
