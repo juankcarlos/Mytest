@@ -1,1 +1,6 @@
-PROYECTO SOBRE COMO USAR MVC PROYECTO EN JAVA
+PROYECTO SOBRE COMO USAR MVC  EN JAVA
+1-Descomprime el Zip
+2-importarlo desde java con import an existing Maven project
+3-abrimos el proyecto  y en el archivo Sql
+4-ejecutamos ese script en  Mysql 
+5-Ejecutamos el programa
